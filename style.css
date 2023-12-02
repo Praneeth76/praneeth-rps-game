@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(21, 19, 19);
+  color: white;
+  font-family: Arial;
+}
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+.png {
+  height: 50px;
+}
+.css-button{
+  background: transparent;
+  border: 3px solid rgba(255, 111, 0, 0.932);
+  height: 120px;
+  width: 120px;
+  border-radius: 60px;
+  cursor: pointer;
+  margin: 10px;
+}
+.res {
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.mov {
+  margin-bottom: 50px;
+}
+.sr {
+  margin-bottom: 30px;
+}
+.btn {
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  background-color: rgba(255, 111, 0, 0.932);
+  color: black;
+  font-weight: bold;
+}
